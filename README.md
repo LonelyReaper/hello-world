@@ -1,4 +1,4 @@
 # hello-world
-Quick tutorial for guthub
+Quick tutorial for github
 
-Now im righting random text in order to make changes to this file.
+Now im wrighting random text in order to make changes to this file.
